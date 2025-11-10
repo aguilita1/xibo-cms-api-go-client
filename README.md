@@ -1,4 +1,4 @@
-# xibo-api-go-client
+# Xibo CMS API Go-Client
 This is a package to integrate Xibo CMS API authenticating via OAuth2.
 
 ---
@@ -6,7 +6,7 @@ This is a package to integrate Xibo CMS API authenticating via OAuth2.
 Create a Go package called xibocmsapi that provides a client for developer to programmatically use the Xibo CMS API. Package should simplify authenticating to Xibo CMS API via OAuth2 provider integration.  Provides Go-native abstractions—such as client objects, structs, and methods—to simplify interaction with Xibo CMS services.
 
 ### Review Xibo API Go-Client respository
-https://github.com/aguilita1/xibo-api-go-client
+https://github.com/aguilita1/xibo-cms-api-go-client
 
 ### Review Xibo CMS API
 https://github.com/xibosignage/xibo-cms/blob/develop/web/swagger.json
